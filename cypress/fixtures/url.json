@@ -1,0 +1,8 @@
+{
+  "baseUrl": "www.walmart.com",
+  "walletUrl" : "https://www.walmart.com/wallet",
+  "signUpUrl" : "https://www.walmart.com/account/signup",
+  "signInUrl": "https://www.walmart.com/account/signin",
+  "cartUrl": "https://www.walmart.com/cart",
+  "reviewOrderUrl": "https://www.walmart.com/checkout/review-order"
+}

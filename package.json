@@ -1,0 +1,17 @@
+{
+  "name": "retailflowassignment",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "clean": "rm -rf build/ node_modules/",
+    "setup": "npm install && npm run validate -s",
+    "cypress:open": "cypress install && cypress open",
+    "cypress:run": "cypress install && cypress run"
+  },
+  "author": "Don Joseph",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cypress": "^13.6.6"
+  }
+}
